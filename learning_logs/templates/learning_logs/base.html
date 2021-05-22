@@ -1,0 +1,15 @@
+<head>
+    <title>Learning Log's Web Server</title>
+    <!-- <link rel="image" href="learning_logs/resources/KNIT.png"> -->
+</head>
+
+<p>
+<blockquote style="color: black; font-weight: bold; font-size: 50px;">
+    Welcome to future of learning.
+</blockquote>
+    <a href="{% url 'index' %}"><button>Learning Log</button></a>
+    <a href="{% url 'topics' %}"><button>Topics</button></a>
+
+</p>
+
+{% block content %}{% endblock content %}
