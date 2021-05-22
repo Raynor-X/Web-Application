@@ -1,4 +1,4 @@
-# Learning Log - Django Based Project
+# Learning Log
 #### Developed with :heart: and :coffee: by @Ayush-SR
 
 <p>
@@ -6,7 +6,7 @@
 </p>
 
 <blockquote style="color:darksalmon; background-color:black; text-align: center; border-radius: 50px;
-font-size: 15px; font-weight: 100;">" Live as if you were to die tomorrow. Learn as if you were to live forever.” Mahatma Gandhi </blockquote>
+font-size: 15px; font-weight: 100;">" Live as if you were to die tomorrow. Learn as if you were to live forever.” ~ Mahatma Gandhi </blockquote>
 
 ----------------------------------------------------------
 
