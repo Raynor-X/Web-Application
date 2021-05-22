@@ -1,5 +1,6 @@
-<h1>Learning Log</h1>
+# Learning Log - Django Based Project
 #### Developed with :heart: and :coffee: by @Ayush-SR
+
 <p>
 <b> Learning Log </b> helps you keep track of your learning, for any topic you're learning about.
 </p>
